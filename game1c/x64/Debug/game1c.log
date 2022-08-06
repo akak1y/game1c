@@ -1,7 +1,4 @@
 ﻿  game1c.cpp
 C:\Users\uprug\source\repos\game1c\game1c\game1c.cpp(26,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
-C:\Users\uprug\source\repos\game1c\game1c\game1c.cpp(49,27): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-C:\Users\uprug\source\repos\game1c\game1c\game1c.cpp(53,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-C:\Users\uprug\source\repos\game1c\game1c\game1c.cpp(57,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-C:\Users\uprug\source\repos\game1c\game1c\game1c.cpp(61,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\uprug\source\repos\game1c\game1c\game1c.cpp(46,21): warning C4305: инициализация: усечение из "double" в "float"
   game1c.vcxproj -> C:\Users\uprug\source\repos\game1c\x64\Debug\game1c.exe
