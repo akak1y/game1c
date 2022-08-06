@@ -25,7 +25,7 @@ int main()
 
 		float time = clock.getElapsedTime().asMicroseconds(); //дать прошедшее время в микросекундах
 		clock.restart(); //перезагружает время
-		time = time / 1000; //скорость игры
+		time = time / 1000; //скорость игры1
 		std::cout << time/1000000 << "\n";//смотрим как живет время (перезагружается, как видим)
 
 		heroteleporttimer += time;//прибавляем к нашей переменной time
